@@ -45,3 +45,10 @@ button {
     background-color: #f1f1f1;
 }
 /Media queries should come here*/
+@media and (max-width: 768px)
+    {
+        body{
+            color:green;
+        }
+        
+}
